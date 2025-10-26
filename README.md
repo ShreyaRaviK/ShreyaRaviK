@@ -2,7 +2,7 @@
 <h3 align="center">✨ A curious AIML enthusiast & Python lover who enjoys crafting smart little brains for machines 💡🐍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyaravik&label=Profile%20views&color=ff69b4&style=flat-square" alt="shreyaravik" />
+  <img src="https://komarev.com/ghpvc/?username=shreyaravik&label=Profile%10000views&color=ff69b4&style=flat-square" alt="shreyaravik" />
 </p>
 
 ---
