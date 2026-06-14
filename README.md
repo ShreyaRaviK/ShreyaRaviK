@@ -24,7 +24,6 @@ Hello! I'm Shreya, an AIML Engineer who believes technology should be both smart
 - ☕ **Creative Balance:** I balance logic with art—one line of code and one brushstroke at a time.
 - 📫 **Reach Me:** The best way is via email at **[shreyabah05@gmail.com](mailto:shreyabah05@gmail.com)**
 - 📄 **My Work:** Feel free to peek at my experiences on **[My Resume](https://drive.google.com/file/d/1Qk-yow-2WAzvvd3toiJWBFDoKVfzaBrX/view?usp=drivesdk)**
-- ⚡ **Fun Fact:** Cutest lady to ever be lady 💅💫
 
 ---
 
